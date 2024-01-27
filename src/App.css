@@ -1,0 +1,32 @@
+.App{
+  
+
+}
+.card{
+margin: 20px;
+
+}
+.myCard{
+  display: flex;
+flex-direction: row;
+justify-content: center;
+margin: 80px;
+padding: 80px;
+
+  border: solid;
+}
+.me-auto{
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+border: solid;
+margin: 10px;
+
+}
+.el{
+  padding: 30px;
+
+
+
+}
